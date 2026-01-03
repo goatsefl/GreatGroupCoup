@@ -243,5 +243,24 @@ greatgroupcoup/
                 ├── Member8_ExecutorFramework.java
                 └── Member9_CallableFuture.java
 ```
+## Reference book to complete the above concepts
+-- Just click the chapter to redirect to the gdrive link embedded.
+-[Chapter - 1](https://docs.google.com/document/d/1M00Oa5WVhab7GyrLzTGyKDNBxfs7--PVc4wp_cgg9Wg/edit?usp=sharing)
+-[Chapter - 2](https://docs.google.com/document/d/18_ktAI43dyhr33NWv4J2OcckhXoKI3-Bc2JksSgQCuk/edit?usp=sharing)
+-[Chapter - 3](https://docs.google.com/document/d/18z69F9j2uAAdVm5ldbFTL1L_f7sGk5SHEvt_CtVCUuc/edit?usp=sharing)
+-[Chapter - 4](https://docs.google.com/document/d/1eOXo42uMYdDpCmj-EjWMFSFWeE4bQyeyXQqVrjmP5ZY/edit?usp=sharing)
+-[Chapter - 5](https://docs.google.com/document/d/13jQw66_SHQ60yhWOT0902hgGN9HP-wmm-4F39Mz_MAo/edit?usp=sharing)
+-[Chapter - 6](https://docs.google.com/document/d/1YpGQDzZArGGesYwHd_5BFg9tpIEWvZl1M5aFyM05Rg4/edit?usp=sharing)
+-[Chapter - 7](https://docs.google.com/document/d/12Tl3Z1d3mO4iCT88bAa5jwSNOWs4I9HuRIob8TPMPuY/edit?usp=sharing)
+-[Chapter - 8](https://docs.google.com/document/d/1-8F0SLx9svE4_Gtq_Y_zhUmnZLHkIP6lYQvXpRdpywE/edit?usp=sharing)
+-[Chapter - 9](https://docs.google.com/document/d/1rrKnmnoX1n42UTGYDoGP9W2Ki_nzxVT47L1snMMljS8/edit?usp=sharing)
+-[Chapter - 10](https://docs.google.com/document/d/1dF6AwdrN4jqPUVjhu-zmbU8Htb5O_IUjEIun2Q5TymA/edit?usp=sharing)
 
+## New Updated Rules : 
 
+### Deadlines for each task for each group:
+#### All Group Tasks :
+-1st three chapters must be completed within 3 days regardless of holidays. Target : 03/01/2026 - 05/01/2026.
+-4th and 5th chapters must be completed within 3 days regardless of holidays. Target : 06/01/2026 - 08/01/2026.
+-6th to 9th chapters must be completed within 3 days regardless of holidays. Target : 09/01/2026 - 11/01/2026.
+-10th chapter must be completed within 3 days regardless of holidays. Target : 12/01/2026 - 14/01/2026.
